@@ -1,0 +1,81 @@
+2016:
+    jan:
+        name: Thomas Shone
+        talk: Security Theater
+        abstract: >
+            This is not your normal security talk.
+
+            Sure we talk about secure communication and the importance of hashing and encrypting(and why rolling your own is never a solution).We might even get frisky and cover some more interesting topics like true randomness, timed attacks and social engineering.
+
+            But what we 're really interested in is understanding what that hacker is trying to do on your site, what the motivation is and, using this, understand where you need to be vigilant.
+
+            We 're also going to talk about the results from an ongoing 4 year project to see just how vulnerable the average consumer website is. Theodore Sturgeon famously said 90% of everything is crud, we'
+            llget to see just how close we come to that number.
+
+            So if you 're ready to see how scary the dark depths of security can be and just how scary it is when you look up and see all the leaky boats above us is, this is for you.
+        bio: >
+            I've been working with PHP since 2005 and have been working remotely since 2010. Until recently I lived in South Africa. Now I live in Amsterdan, I have a fondness for Composer, php-fig and security stuff. On occasion I've been known to point out vulnerabilities in payment gateways. On occasion I've been threatened with legal action for doing this.
+    feb:
+        name: Jordy Moos and Frank Koornstra
+        talk: Elasticsearch, the story so far
+        abstract: >
+            Elasticsearch, all the cool kids talks about it, tutorials for beginners aplenty but what about beyond the first install and putting your first document in? This talk will give you an insight on the steps that come next: a dive into analysers, performance for percolation and the gold nuggets for your cluster infrastructure. This is our experience with Elasticsearch in a 2.4 billion (yes, that would be nine zeroes indeed) page view environment with over 22 million documents. We're not the experts but we can tell you a hell of a lot about our mistakes.
+
+            Basic knowledge on Elasticsearch is assumed so
+            if you don 't have any yet, read up a bit.
+        bio: >
+            This talk is given by Jordy Moos and Frank Koornstra. Both work at PB Web Media in Haarlem. There they work on high traffic websites with technologies like Elasticsearch, Couchbase, Hadoop and of course good old Symfony. Jordy (@joydymoos) is a crack at combining concepts from different languages, losing his dog in Fallout 4 and generally talking without a filter, it should be a hoot! Frank (@frankkoornstra) is there to prevent that not-filter thing from happening and... yeah that's basically it. It's going to be fun!
+    mar:
+        name: Michelle Sanver
+        talk: Growing with PHP
+        abstract: >
+            Year 2000 was the year of functions2.php. Today we write fully engineered Object Oriented software. All in the same language. PHP has grown and we as developers and people have grown with the new changes over the years. Let me show you what truly changed my life as I grew from PHP 4 to 7, let's grow further together. 
+        bio: >
+            Michelle Sanver is president of PHPWomen, an inclusive & global network providing support within the PHP community. She also works as a software developer at Liip, based in Zürich, Switzerland.
+
+            Michelle loves anything community related and is a big advocate of Open Source. She is a code-passionate colorful geek and with more than 10 years of PHP experience she is eager to share her extensive knowledge.
+    apr:
+        name: Mike
+        talk:
+        abstract:
+        bio:
+    may:
+        name: Rick Kuipers
+        talk:
+        abstract:
+        bio:
+    jun:
+        name: Luís
+        talk:
+        abstract:
+        bio:
+    jul:
+        name:
+        talk:
+        abstract:
+        bio:
+    aug:
+        name:
+        talk:
+        abstract:
+        bio:
+    sep:
+        name:
+        talk:
+        abstract:
+        bio:
+    oct:
+        name:
+        talk:
+        abstract:
+        bio:
+    nov:
+        name:
+        talk:
+        abstract:
+        bio:
+    dec:
+        name:
+        talk:
+        abstract:
+        bio:
